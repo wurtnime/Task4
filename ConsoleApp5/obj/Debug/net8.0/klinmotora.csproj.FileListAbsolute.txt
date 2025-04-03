@@ -1,0 +1,28 @@
+C:\Users\Segor\Desktop\OGVOIZOV\bin\Debug\net8.0\klinmotora.exe
+C:\Users\Segor\Desktop\OGVOIZOV\bin\Debug\net8.0\klinmotora.deps.json
+C:\Users\Segor\Desktop\OGVOIZOV\bin\Debug\net8.0\klinmotora.runtimeconfig.json
+C:\Users\Segor\Desktop\OGVOIZOV\bin\Debug\net8.0\klinmotora.dll
+C:\Users\Segor\Desktop\OGVOIZOV\bin\Debug\net8.0\klinmotora.pdb
+C:\Users\Segor\Desktop\OGVOIZOV\obj\Debug\net8.0\klinmotora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Segor\Desktop\OGVOIZOV\obj\Debug\net8.0\klinmotora.AssemblyInfoInputs.cache
+C:\Users\Segor\Desktop\OGVOIZOV\obj\Debug\net8.0\klinmotora.AssemblyInfo.cs
+C:\Users\Segor\Desktop\OGVOIZOV\obj\Debug\net8.0\klinmotora.csproj.CoreCompileInputs.cache
+C:\Users\Segor\Desktop\OGVOIZOV\obj\Debug\net8.0\klinmotora.dll
+C:\Users\Segor\Desktop\OGVOIZOV\obj\Debug\net8.0\refint\klinmotora.dll
+C:\Users\Segor\Desktop\OGVOIZOV\obj\Debug\net8.0\klinmotora.pdb
+C:\Users\Segor\Desktop\OGVOIZOV\obj\Debug\net8.0\klinmotora.genruntimeconfig.cache
+C:\Users\Segor\Desktop\OGVOIZOV\obj\Debug\net8.0\ref\klinmotora.dll
+D:\ОП\Практика №4\ПриораПомнеш\bin\Debug\net8.0\klinmotora.exe
+D:\ОП\Практика №4\ПриораПомнеш\bin\Debug\net8.0\klinmotora.deps.json
+D:\ОП\Практика №4\ПриораПомнеш\bin\Debug\net8.0\klinmotora.runtimeconfig.json
+D:\ОП\Практика №4\ПриораПомнеш\bin\Debug\net8.0\klinmotora.dll
+D:\ОП\Практика №4\ПриораПомнеш\bin\Debug\net8.0\klinmotora.pdb
+D:\ОП\Практика №4\ПриораПомнеш\obj\Debug\net8.0\klinmotora.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОП\Практика №4\ПриораПомнеш\obj\Debug\net8.0\klinmotora.AssemblyInfoInputs.cache
+D:\ОП\Практика №4\ПриораПомнеш\obj\Debug\net8.0\klinmotora.AssemblyInfo.cs
+D:\ОП\Практика №4\ПриораПомнеш\obj\Debug\net8.0\klinmotora.csproj.CoreCompileInputs.cache
+D:\ОП\Практика №4\ПриораПомнеш\obj\Debug\net8.0\klinmotora.dll
+D:\ОП\Практика №4\ПриораПомнеш\obj\Debug\net8.0\refint\klinmotora.dll
+D:\ОП\Практика №4\ПриораПомнеш\obj\Debug\net8.0\klinmotora.pdb
+D:\ОП\Практика №4\ПриораПомнеш\obj\Debug\net8.0\klinmotora.genruntimeconfig.cache
+D:\ОП\Практика №4\ПриораПомнеш\obj\Debug\net8.0\ref\klinmotora.dll
